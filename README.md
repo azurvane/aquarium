@@ -1,6 +1,6 @@
 # Arduino Virtual Aquarium
 
-![Aquarium Animation](readme_images/circuit_gif.gif)
+![Aquarium Animation](readme_assets/circuit_gif.gif)
 
 
 This project turns an Arduino and an OLED screen into a digital fish tank. It features a swimming fish, bubbles, and swaying seaweed.
